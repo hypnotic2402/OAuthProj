@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OAuthProj</string>
+    <string name="default_web_client_id">578967941323-sh2084revkfmfhi5pohet8kgt69c1lg1.apps.googleusercontent.com</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="facebook_app_id">1502613090592205</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">311e92e6594922f3b66aa832010e4062</string>
+    <string name="sdn_project">SDN Project</string>
+</resources>
